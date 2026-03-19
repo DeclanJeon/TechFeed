@@ -1,0 +1,5 @@
+{
+  "name": "Global IT News Aggregator",
+  "description": "A website that aggregates domestic and international IT news using RSS feeds.",
+  "requestFramePermissions": []
+}
